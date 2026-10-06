@@ -42,7 +42,7 @@ x-tier-reason: portfolio-lead
 x-api-surface: none
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-10-06'
 tags:
 - Company
 - Biotechnology
@@ -53,6 +53,10 @@ tags:
 - Clinical Stage
 - Life Sciences
 common:
+- url: https://vimatx.com/news/
+  type: Blog
+- url: https://vimatx.com/feed/
+  type: BlogRSS
 - type: Website
   url: https://www.vimatx.com
 apis: []
